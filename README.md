@@ -2,10 +2,6 @@
 
 A Python tool to spam Discord users with multiple bots concurrently
 
-## Support
-
-Join our Discord server for support and updates: [Discord Link](https://discord.gg/R7ybdvBSuM)
-
 ## Features
 
 - Concurrent multi-bot messaging
@@ -62,3 +58,4 @@ GUILD_ID=your_guild_id
 ## Disclaimer
 
 This project is for educational purposes only. Use at your own risk. Users are responsible for complying with Discord's Terms of Service and all applicable laws. Spamming may result in account bans or other penalties.
+
